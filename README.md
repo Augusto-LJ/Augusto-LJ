@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Augusto 👋
 
 - 🔭 Atualmente trabalho com testes de software
-- 🌱 Estou estudando HTML, CSS, JavaScript, C# e banco de dados com o objetivo de me tornar desenvolvedor fullstack
+- 🌱 Estou estudando principalmente C#, JavaScript e SQL com o objetivo de me tornar desenvolvedor fullstack
 <br>
 
   <div>
