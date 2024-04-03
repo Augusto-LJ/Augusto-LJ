@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Augusto 👋
 
-- 🔭 Atualmente trabalho com testes de software
+- 🔭 Sou um estagiário de testes de software que está se aventurando no mundo do Desenvolvimento Web
 - 🌱 Estou estudando principalmente C#, JavaScript e SQL com o objetivo de me tornar desenvolvedor fullstack
 <br>
 
