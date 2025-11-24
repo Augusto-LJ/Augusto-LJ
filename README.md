@@ -2,7 +2,8 @@
 
 - 👨🏼‍💻 Sou Desenvolvedor Web!
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie.
-- 🏅 Orientado a resultados e apaixonado em aprender
+- 📜 Certified Tester Foundation Level (CTFL) pela ISTQB.
+- 🏅 Orientado a resultados e apaixonado em aprender!
 - 🌱 Atualmente aprimorando meus conhecimentos em C# e Vue.js, principalmente.
 <br>
 
