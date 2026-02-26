@@ -4,7 +4,7 @@
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie.
 - 📜 Certified Tester Foundation Level (CTFL) pela ISTQB.
 - 🏅 Orientado a resultados e apaixonado em aprender!
-- 🌱 Atualmente aprimorando meus conhecimentos em C#, Vue.js, estrutura de dados e algoritmos.
+- 🌱 Atualmente aprimorando meus conhecimentos em estrutura de dados, algoritmos e alguns conceitos chave de backend, como SOLID, Design patterns e testes automatizados.
 <br>
 
   <div>
