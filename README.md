@@ -10,9 +10,8 @@
 - 📜 Certified Tester Foundation Level (CTFL - ISTQB)  
 - 🧠 Strong interest in **backend engineering, software architecture and clean code**  
 - 🌱 Currently improving skills in:
-  - Data Structures & Algorithms  
-  - Clean Architecture  
-  - SOLID principles  
+  - Clean Architecture and SOLID principles
+  - Cloud computing (AWS)
   - Automated testing  
 
 ---
