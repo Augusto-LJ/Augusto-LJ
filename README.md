@@ -80,8 +80,8 @@ I believe in:
 ## 📌 Featured Projects
 
 🚧 Currently working on personal projects focused on:
-- Backend architecture
-- API design
+- Cloud
+- Angular
 - Software quality
 
 👉 Check my [repositories](https://github.com/Augusto-LJ?tab=repositories) to see what I'm building.
