@@ -5,10 +5,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Software Developer with 2+ years of experience building web applications  
-- 🎓 Technology's degree in Systems Analysis and Development (Universidade Presbiteriana Mackenzie.)  
-- 📜 Certified Tester Foundation Level (CTFL - ISTQB)  
-- 🧠 Strong interest in **backend engineering, software architecture and clean code**  
+- 💻 Software Developer with 2+ years of experience building web applications
+- 🎓 Technology's degree in Systems Analysis and Development (Universidade Presbiteriana Mackenzie.)
+- 📜 AWS Certified AI Practitioner
+- 📜 Certified Tester Foundation Level (CTFL - ISTQB)
+- 🧠 Strong interest in **backend engineering, software architecture and clean code**
 - 🌱 Currently improving skills in:
   - Clean Architecture and SOLID principles
   - Cloud computing (AWS)
