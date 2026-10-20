@@ -9,7 +9,7 @@
 - 🎓 Technology's degree in Systems Analysis and Development (Universidade Presbiteriana Mackenzie.)
 - 📜 AWS Certified AI Practitioner
 - 📜 Certified Tester Foundation Level (CTFL - ISTQB)
-- 🧠 Strong interest in **backend engineering, software architecture and clean code**
+- 🧠 Strong interest in **backend engineering, software architecture and cloud computing**
 - 🌱 Currently improving skills in:
   - Clean Architecture and SOLID principles
   - Cloud computing (AWS)
